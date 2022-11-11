@@ -4,7 +4,7 @@ on:
   workflow_dispatch:  
 # Add env
 env:
-  CONTAINER_REGISTRY:  # Azure Container Registry のドメイン (~.azurecr.io) をこちらに設定    
+  CONTAINER_REGISTRY:  cicdzuresatodsazudsdop7ma    
 jobs:
   build:
     runs-on: ubuntu-22.04
